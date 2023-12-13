@@ -51,6 +51,23 @@ footer {
 
 .white-text {
   color: white;
-}ext {
-  color: white;
+}
+
+.landingNav a {
+    color: #f2f2f2;
+    align: center;
+    text-decoration: none; 
+    font-size: 20px;
+}
+
+.landingNav a:hover {
+  font-size: 40px;
+}
+
+.landingNav {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
 }
