@@ -5,7 +5,6 @@
 
 
 </head>
-<body>
 
 
    <head>
@@ -14,17 +13,25 @@
     <title>Multi Ending Game</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <header>
-        <h1>Multi Ending Game</h1>
-        <!-- Add navigation or any header content here -->
-    </header>
+  <header>
+      <h1>Multi Ending Game</h1>
+      <!-- Add navigation or any header content here -->
+  </header>
 
+  <body>
+      <div class="landingNav">
+        <a href="index.php">Home</a>
+        <br>
+        <a href="about.php">About</a>
+        <br>
+        <a href="contact.php">Contact</a>
+      </div>
+      </div>
+  </body>
+  </body>
 
-    <footer>
-        <!-- Add footer content or links here -->
-    </footer>
+  <footer>
 
-</body>
+  </footer>
 <link rel="stylesheet" type="text/css" href="style.css">
 </html>
